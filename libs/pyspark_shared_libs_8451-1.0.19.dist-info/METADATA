@@ -1,0 +1,19 @@
+Metadata-Version: 2.0
+Name: pyspark-shared-libs-8451
+Version: 1.0.19
+Summary: A shared Pyspark library for use across 8451
+Home-page: https://github.8451.com/Agatha-Platform/pyspark-shared-libs-8451
+Author: Agatha Digital Team
+Author-email: Engineering-Agatha_DP_DL@8451.com
+License: UNKNOWN
+Description-Content-Type: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: py4j (==0.10.4)
+Requires-Dist: pyspark (==2.2.1)
+Requires-Dist: numpy (==1.13.0)
+Requires-Dist: wheel
+Requires-Dist: bumpversion
+
+UNKNOWN
+
+
